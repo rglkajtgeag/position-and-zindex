@@ -1,0 +1,35 @@
+.div{
+    background-color: deeppink;
+    text-align: center;
+}
+
+#img4{
+position:absolute;
+float:left;
+left:35rem;
+bottom:8rem;
+border-radius: 20px;
+}
+#one{
+    position:absolute;
+float:left;
+z-index:1;
+left:70rem;
+bottom:10rem;
+}
+#two{
+    position:absolute;
+float:left;
+z-index:2;
+left:70rem;
+top:5rem;
+bottom: 35rem;
+}
+#three{
+    position:absolute;
+float:left;
+z-index:3;
+left:70rem;
+top:35rem;
+bottom:20rem;
+}
